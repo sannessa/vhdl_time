@@ -20,7 +20,7 @@ use IEEE.NUMERIC_STD.ALL;
 
 entity simple_not is
     Port ( a_in : in  STD_LOGIC;
-           b_out : in  STD_LOGIC);
+           b_out : out  STD_LOGIC);
 end simple_not;
 
 architecture Behavioral of simple_not is
