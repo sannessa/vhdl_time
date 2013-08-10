@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2013-08-09T18:14:13</DateModified>
+  <DateModified>2013-08-09T20:34:48</DateModified>
   <ModuleName>simple_not</ModuleName>
-  <SummaryTimeStamp>Unknown</SummaryTimeStamp>
+  <SummaryTimeStamp>2013-08-09T19:47:41</SummaryTimeStamp>
   <SavedFilePath>/home/steve/vhdl_time/simple_not/iseconfig/simple_not.xreport</SavedFilePath>
   <ImplementationReportsDirectory>/home/steve/vhdl_time/simple_not</ImplementationReportsDirectory>
   <DateInitialized>2013-08-09T18:14:13</DateInitialized>
